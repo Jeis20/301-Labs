@@ -1,0 +1,10 @@
+* img {
+  outline-style: auto;
+  outline-color: black;
+}
+
+main img {
+  float: left;
+}
+
+
