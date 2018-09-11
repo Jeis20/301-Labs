@@ -14,13 +14,3 @@ body {
     background-color: red;
   }
 }
-
-div {
-  position: relative;
-}
-
-p {
-  position: absolute;
-  top: 40%;
-  left: 48%;
-}
