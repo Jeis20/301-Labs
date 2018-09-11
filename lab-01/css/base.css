@@ -1,3 +1,8 @@
+* img {
+  outline-style: auto;
+  outline-color: black;
+}
+
 body {
   background-color: green;
   width: 480px;

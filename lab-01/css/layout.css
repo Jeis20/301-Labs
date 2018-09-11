@@ -1,10 +1,22 @@
-* img {
-  outline-style: auto;
-  outline-color: black;
+header img {
+  float: left;
+}
+
+aside img {
+  float: left;
 }
 
 main img {
   float: left;
 }
 
+div {
+  float: left;
+  position: relative;
+}
 
+p {
+  position: absolute;
+  top: 40%;
+  left: 48%;
+}
