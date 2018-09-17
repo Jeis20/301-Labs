@@ -1,12 +1,10 @@
-* img {
-  outline-style: auto;
-  outline-color: black;
-}
-
 body {
+  display: grid;
   background-color: green;
   width: 480px;
   margin: auto;
+  grid-template-columns: 240px 240px;
+  grid-template-rows: 480px 480px 480px 480px 240px 240px 48
 }
 
 @media only screen and (min-width: 768px) {
